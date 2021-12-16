@@ -1,0 +1,65 @@
+body{
+    background-image: url("./images/cover.png");
+    background-size: cover;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+.headarea h1{
+    margin: 10px 0px;
+    text-align: center;
+}
+
+#speed{
+    transform: rotateY(180deg);
+    background-color: white;
+    margin-top: 10px;
+    padding: 0px 6px;
+    border-radius: 15px;
+}
+
+#ans{
+    background-color: rgba(44, 86, 47, 0.8);
+    color: white;
+	width: max-content;
+	height: max-content;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#data, #data2{
+	width: max-content;
+	height: max-content;
+    margin: auto;
+	margin-top: 20px;
+    transition-duration: 1s;
+}
+
+#data2 table tr td{
+    background-color: rgba(153, 255, 153, 0.95);
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    height: 60px;
+    width: 60px;
+    border: 2px solid black;
+}
+
+.customB{
+    margin: auto;
+    margin-top: 15px;
+    width: fit-content;
+}
+
+.cola{
+    background-color: rgba(44, 86, 47, 1) !important;
+    color: white;
+}
+
+.colb{
+    background-color: rgba(255, 223, 13, 0.95) !important;
+}
+
+.hide{
+    visibility: hidden;
+}
