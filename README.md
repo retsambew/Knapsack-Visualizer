@@ -15,7 +15,7 @@ Our program helps you visualize the DP based solution for maximizing the profit.
 
 ### How to access
 To access the visualizer you can got to the following link:  
-![link]https://retsambew.github.io/Knapsack-Visualizer/  
+https://retsambew.github.io/Knapsack-Visualizer/  
  ------- *OR* -------  
 You can download the code and can run *index.html* file in your web browser   
 
